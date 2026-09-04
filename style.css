@@ -96,12 +96,12 @@ p{
 .head3{
     text-transform: uppercase;
     margin-top: 100px;
-    margin-left: 1400px;
+    margin-left: 1300px;
     font-size: 45px;
 }
 .hr{
     margin-top: 10px;
-    margin-left: 1500px;
+    margin-left: 1400px;
 
 }
 .para{
@@ -145,7 +145,7 @@ p{
 }
 .menu-card{
     display: flex;
-    gap: 500px;
+    gap: 400px;
     row-gap: 40px;
     flex-wrap: wrap;
     justify-content: center;
